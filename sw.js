@@ -3,7 +3,7 @@
 // Estrategia: Cache-first (app 100% offline)
 // ============================================================
 
-const CACHE_NAME = 'bode-calc-v2';
+const CACHE_NAME = 'bode-calc-v3';
 
 const ASSETS = [
   './',
@@ -13,7 +13,10 @@ const ASSETS = [
   './icons/icon-512.png',
   './icons/icon-192-maskable.png',
   './icons/icon-512-maskable.png',
-  './icons/apple-touch-icon.png'
+  './icons/apple-touch-icon.png',
+  './icons/apple-touch-icon-180.png',
+  './icons/apple-touch-icon-152.png',
+  './icons/apple-touch-icon-120.png'
 ];
 
 // ── Instalación: cachear todos los assets ──
